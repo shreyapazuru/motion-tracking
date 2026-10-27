@@ -1,0 +1,11 @@
+{
+  "name": "Secure Sensor",
+  "description": "Clinical, high-accuracy military-grade optical motion & acoustic sensor with full-frame any-corner detection, live audio VU monitor, and permission controller.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
